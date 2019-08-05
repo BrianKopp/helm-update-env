@@ -1,0 +1,4 @@
+apiVersion: v1
+description: A helm chart demonstrating how to rollout env updates to deployment
+name: helm-update-env
+version: v0.1.0
