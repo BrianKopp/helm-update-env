@@ -1,0 +1,5 @@
+image:
+  name: briankopp/helm-update-env
+  tag: "0.0.2"
+envVersion: "b"
+envValue: "value_b"
